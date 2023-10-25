@@ -1,4 +1,4 @@
-# OptimizationMethods_2023
+# CSD573 Optimization Methods 2023
 Codes for the HY573 course "Optimization Methods"
 
 [Example of product inner products](https://github.com/gtsagkatakis/OptimizationMethods_2023/blob/main/csd573_ex2_inner_product.ipynb) 
