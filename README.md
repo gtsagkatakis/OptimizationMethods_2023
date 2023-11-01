@@ -7,8 +7,8 @@ Codes for the HY573 course "Optimization Methods"
 
 [Example of matrix inversion for radio astronomy image recovery](https://github.com/gtsagkatakis/OptimizationMethods_2023/blob/main/CSD573_lecture_3_ex_2.ipynb) 
 
-[Example of SVD and PCA](https://github.com/gtsagkatakis/OptimizationMethods_2023/blob/main/HY530_PCA_SVD_example_v3.ipynb) 
+[Example of SVD and PCA for hyperspectral image denoising](https://github.com/gtsagkatakis/OptimizationMethods_2023/blob/main/HY530_PCA_SVD_example_v3.ipynb) 
 
-[Example of Tucker](https://github.com/gtsagkatakis/OptimizationMethods_2023/blob/main/HY530_TensorDecomposition_example.ipynb)
+[Example of Tucker for hyperspectral image denoising](https://github.com/gtsagkatakis/OptimizationMethods_2023/blob/main/HY530_TensorDecomposition_example.ipynb)
 
 
