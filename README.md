@@ -9,4 +9,6 @@ Codes for the HY573 course "Optimization Methods"
 
 [Example of SVD and PCA](https://github.com/gtsagkatakis/OptimizationMethods_2023/blob/main/HY530_PCA_SVD_example_v3.ipynb) 
 
+[Example of Tucker](https://github.com/gtsagkatakis/OptimizationMethods_2023/blob/main/HY530_TensorDecomposition_example.ipynb)
+
 
