@@ -11,4 +11,6 @@ Codes for the HY573 course "Optimization Methods"
 
 [Example of Tucker for hyperspectral image denoising](https://github.com/gtsagkatakis/OptimizationMethods_2023/blob/main/HY530_TensorDecomposition_example.ipynb)
 
+[PaviaU dataset](https://drive.google.com/file/d/1H0UCkPgZ0_RKdsmd0SExL5QInHsI0_OR/view?usp=sharing)
+
 
