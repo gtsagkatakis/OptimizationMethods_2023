@@ -13,4 +13,10 @@ Codes for the HY573 course "Optimization Methods"
 
 [PaviaU dataset](https://drive.google.com/file/d/1H0UCkPgZ0_RKdsmd0SExL5QInHsI0_OR/view?usp=sharing)
 
+[SA_demo](https://github.com/gtsagkatakis/OptimizationMethods_2023/blob/main/573_simulated_annealing_example.ipynb)
+
+[PSO demo](https://github.com/gtsagkatakis/OptimizationMethods_2023/blob/main/573_PSO.ipynb)
+
+[GA demo](https://github.com/gtsagkatakis/OptimizationMethods_2023/blob/main/573_GA_demo.ipynb)
+
 
