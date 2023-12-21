@@ -19,3 +19,7 @@ Codes for the HY573 course "Optimization Methods"
 
 [PSO demo](https://github.com/gtsagkatakis/OptimizationMethods_2023/blob/main/573_PSO_v3.ipynb)
 
+[ADMM demo](https://github.com/gtsagkatakis/OptimizationMethods_2023/blob/main/573_ADMM.ipynb)
+
+
+
